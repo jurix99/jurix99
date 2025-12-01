@@ -12,6 +12,7 @@ I'm a **Software Engineer** and **DevOps Engineer** passionate about building re
 
 ### Personal 
 - Kairos - A smart time management tool
-  
+
+### Links 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julientr99)
 
